@@ -1,5 +1,7 @@
 # Active Directory Lab
 
+This lab demonstrates how to deploy and configure Active Directory in Azure using Windows Server 2019 and Windows 10 virtual machines. It includes setting up a domain controller, configuring DNS, and joining a client VM to the domain.
+
 ## Objective
 Deploy a Windows Server VM as a Domain Controller (DC-1), install Active Directory Domain Services (AD DS), create Organizational Units and a Domain Admin user, and join a Windows client VM (C-1) to the domain.
 
